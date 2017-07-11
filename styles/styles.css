@@ -1,8 +1,9 @@
 body {
-	background: yellow;
+	background: white;
 }
 #menu {
 	display: inline-block;
+	float: left;
 	color: #cecece;
 	background: 6e6e6e;
 	margin: 20px;
