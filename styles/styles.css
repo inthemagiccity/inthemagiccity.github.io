@@ -1,0 +1,10 @@
+body {
+	background: yellow;
+}
+#menu {
+	display: inline-block;
+	color: #000;
+	margin: 20px;
+	text-align: center;
+	font-size: 16px;
+}
